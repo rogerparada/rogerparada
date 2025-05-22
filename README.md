@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22828
-Fork on GitHub
-7603
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Roger Parada</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
